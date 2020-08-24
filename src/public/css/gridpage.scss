@@ -1,0 +1,12 @@
+.grid-box{
+  margin: -$gridpageGutter;
+  & .el-col{
+    height: 100%;
+    padding: $gridpageGutter;
+  }
+  .grid-content{
+    height: 100%;
+    background-color: $gridpageBgColor;
+    overflow: auto;
+  }
+}
