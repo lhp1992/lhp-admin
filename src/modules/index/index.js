@@ -13,6 +13,8 @@ import Plugin from './plugin';
 
 import '../../public/mock';
 
+// aa
+
 Vue.use(ElementUI)
 Vue.use(Ajax)
 Vue.use(Modal)
