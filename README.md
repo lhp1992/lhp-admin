@@ -6,6 +6,9 @@
 
 ## 基本目录结构
 
+
+weeee
+
 ```
 ├── components // 公共组件
 ├── config // 配置相关
